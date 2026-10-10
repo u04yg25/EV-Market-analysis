@@ -1,0 +1,11 @@
+region_country,category,parameter,mode,powertrain,year,unit,value,Aggregate group
+China,Historical,EV sales,Cars,EV,2025,Vehicles,13000000,Projection_country
+USA,Historical,EV sales,Cars,EV,2025,Vehicles,1500000,Projection_country
+Germany,Historical,EV sales,Cars,EV,2025,Vehicles,860000,Other
+United Kingdom,Historical,EV sales,Cars,EV,2025,Vehicles,700000,Other
+France,Historical,EV sales,Cars,EV,2025,Vehicles,450000,Other
+Turkiye,Historical,EV sales,Cars,EV,2025,Vehicles,240000,Other
+Netherlands,Historical,EV sales,Cars,EV,2025,Vehicles,230000,Other
+Spain,Historical,EV sales,Cars,EV,2025,Vehicles,230000,Other
+Korea,Historical,EV sales,Cars,EV,2025,Vehicles,220000,Projection_country
+Italy,Historical,EV sales,Cars,EV,2025,Vehicles,190000,Other
