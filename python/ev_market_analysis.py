@@ -201,7 +201,7 @@ print(
 )
 
 
-# Export the top 10 country EV markets for Power BI
+# Export the top 10 country EV markets for Tableau
 top_10_ev_markets = country_ev_sales_2025.head(10).copy()
 
 top_10_ev_markets.to_csv(
